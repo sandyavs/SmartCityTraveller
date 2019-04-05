@@ -1,0 +1,14 @@
+				INSTALLATION NODEMODULES FOR PROJECT
+
+
+npm install --save @angular/material
+
+npm install --save @angular/http
+
+npm install --save @angular/cdk
+
+npm install --save @agm/core
+
+npm install --save @types/googlemaps
+
+npm install angular-alert-module --save
